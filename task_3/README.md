@@ -19,7 +19,8 @@
 - Boyer-Moore: 0.00123
 - Knuth–Morris–Pratt: 0.00644
 - Rabin-Karp: 0.01189
-- Загалом:
+
+**Загалом:**
 
 - Boyer-Moore: 0.00034 + 0.00123 = 0.00157
 - Knuth–Morris–Pratt: 0.00267 + 0.00644 = 0.00911
